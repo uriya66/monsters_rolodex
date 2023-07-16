@@ -5,4 +5,4 @@ Technologies used: React.js, JSX, and CSS
 
 Link to a website by using Netlify: [https://lnkd.in/dKR3wJN4](https://monsters-rolodex-ua.netlify.app/)
 
-![Monsters Rolodex](https://github.com/uriya66/Monsters_RolodexA/assets/35742868/1e8b6bf1-6f53-4d32-8983-8de6b1beae20)
+![Monsters Rolodex](https://github.com/uriya66/Monsters_Rolodex/assets/35742868/9acea6e8-8f04-46f0-91cc-3682a18d61b3)
